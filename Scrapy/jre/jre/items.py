@@ -17,6 +17,7 @@ class JreItem(scrapy.Item):
     dislikes = scrapy.Field()
     views = scrapy.Field()
     ratio = scrapy.Field()
+    tag = scrapy.Field()
 
 
 
