@@ -8,7 +8,7 @@ from scrapy.exporters import CsvItemExporter
 
 class JrePipeline(object):
     def __init__(self):
-        self.filename = 'jre2.csv'
+        self.filename = 'jre_tags_raw.csv'
 
     def open_spider(self, spider):
         self.csvfile = open(self.filename, 'wb')
