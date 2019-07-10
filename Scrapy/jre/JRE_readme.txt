@@ -22,3 +22,9 @@ time series of viewership, likes, dislikes
 likes, dislikes, views by tag
 number of podcasts per tag
 most frequent guests
+
+
+### to do:
+-add ability to select date ranges.
+-run check correlations amongs variables overall, and within each category.
+-run stat tests on all box-plot data
