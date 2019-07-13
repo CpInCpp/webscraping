@@ -1,3 +1,16 @@
+# Pycharm and Jupyter Notebook#
+###################
+*.idea 
+__pychache__
+ (python caching) 
+.ipynb_checkpoints 
+venv
+
+# Images #
+###################
+*.png
+
+
 # Compiled source #
 ###################
 *.com
